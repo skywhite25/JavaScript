@@ -1,2 +1,2 @@
 # JavaScript
-JavaScript
+JavaScript 공부
